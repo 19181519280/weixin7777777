@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "41f724280d8779b7f5b12794c45bdeba",
 # 模板消息id
-"template_id": "WU9THwcLP_M4LcSTuRXY0cAG5f4OOKaUcp54h3_7Q5M",
+"template_id": "gqX1BBx0n6VuiYl6y24e0C9eH3pqYXhEzl351ZOJWiw",
 # ，例如["wx1", "wx2"WU9THwcLP_M4LcSTuRXY0cAG5f4OOKaUcp54h3_7Q5M	]
 "user": ["odvNc5uF1HqrD9q4-rV54tLoSozI"，"odvNc5hTAL7SYuQwAmEhS0H2h6-w"],
 
