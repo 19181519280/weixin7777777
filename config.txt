@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx3bf23fd497a03858",
+# 公众号appSecret
+"app_secret": "41f724280d8779b7f5b12794c45bdeba",
+# 模板消息id
+"template_id": "GKZLfFoeQYqjQRAzCuQ_hLXRaYsQ7vRRVXcwtseLHU",
+# ，例如["wx1", "wx2"]
+"user": ["odvNc5uF1HqrD9q4-rV54tLoSozI"， "odvNc5hTAL7SYuQwAmEhS0H2h6-w"],
+
+# 信息配置
+# 所在省份
+"province": "云南",
+# 所在城市
+"city": "丽江",
+# 所在省份
+"province": "内蒙古",
+# 所在城市
+"city": "阿拉善盟",
+# 生日1，修改名字为对应需要显示的宝贝名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "宝贝", "rbirthday": "2003-05-22"},
+# 生日2
+"birthday2": {"name": "吕贤泽", "birthday": "r2003-03-06"},
+# 在一起的日子，格式同上
+"love_date": "2022-08-04"
+}
